@@ -4,6 +4,16 @@ Der CodeListHub-Explorer ist [Open Source](https://github.com/openpotato/codelis
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de).
 
+## 0.1.1 <small>_ 04. März 2025</small>
+
+**Hinzugefügt:**
+
++ Aufzählspalte für integrierten CSV-Viewer hinzugefügt
+
+**Korrigiert**
+
++ Kodierung der Suchparameter korrigiert
+
 ## 0.1.0 <small>_ 28. Februar 2025</small>
 
 **Hinzugefügt:**

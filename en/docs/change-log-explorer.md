@@ -4,6 +4,16 @@ The CodeListHub API web service is [Open Source](https://github.com/openpotato/c
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com).
 
+## 0.1.1 <small>_ March 04, 2025</small>
+
+**Added:**
+
++ Enumeration column for integrated CSV viewer added
+
+**Fixed**
+
++ Encoding of the search parameters fixed
+
 ## 0.1.0 <small>_ February 28, 2025</small>
 
 **Added:**

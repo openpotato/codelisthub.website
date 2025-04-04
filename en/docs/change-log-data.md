@@ -4,6 +4,12 @@ The aggregated raw data is available in the GitHub repository [CodeListHub.Data]
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the code lists in CodeListHub as a whole are not subject to semantic versioning; instead, each code list is versioned individually.
 
-## February 21, 2022
+## March 04, 2025
+
+**Added:**
+
++ Code lists of the school statistics 2024/2025 Schleswig-Holstein
+
+## February 21, 2025
 
 + First publication
